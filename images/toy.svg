@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 278 406" style="enable-background:new 0 0 278 406;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6B3932;}
+	.st1{fill:#FFE984;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#0C0D0D;}
+	.st4{fill:#FF4105;}
+	.st5{fill:none;stroke:#6B3932;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<circle class="st0" cx="139.2" cy="101.4" r="91.6"/>
+		<g>
+			<circle class="st0" cx="43.5" cy="43.3" r="36.1"/>
+			<circle class="st0" cx="234.7" cy="43.3" r="36.1"/>
+		</g>
+		<ellipse class="st0" cx="141" cy="261.9" rx="92.8" ry="120.8"/>
+		<circle class="st0" cx="93.9" cy="372.9" r="28.3"/>
+		<circle class="st0" cx="186.3" cy="372.9" r="28.3"/>
+		<ellipse class="st1" cx="140.7" cy="131.9" rx="56.7" ry="44.4"/>
+		<ellipse class="st1" cx="137.7" cy="71.6" rx="71.3" ry="49.8"/>
+		<g>
+			<circle class="st2" cx="104" cy="75.2" r="26.8"/>
+			<circle class="st3" cx="108.5" cy="87.4" r="10.1"/>
+		</g>
+		<g>
+			<circle class="st2" cx="172.6" cy="74.3" r="26.8"/>
+			<circle class="st3" cx="168.1" cy="86.5" r="10.1"/>
+		</g>
+		<polygon class="st4" points="116.5,103.5 160.1,103.5 139.8,120.5 		"/>
+		<line class="st5" x1="139.8" y1="120.5" x2="139.8" y2="146.2"/>
+		<path class="st5" d="M115.9,139.3c0,0,22.1,16.7,49.8,0"/>
+		<g>
+			<ellipse class="st0" cx="45.9" cy="239.8" rx="36.7" ry="41.2"/>
+			<path class="st1" d="M56,204.6c0,0-36.7,7.5-33.1,39.7c0,0,1.5,16.1,22.7,24.2c0,0,17-7.5,6-19.1c0,0,14-14,2.1-22.1
+				C53.9,227.3,73.6,217.8,56,204.6z"/>
+		</g>
+		<g>
+			<ellipse class="st0" cx="229" cy="239.8" rx="36.7" ry="41.2"/>
+			<path class="st1" d="M219.1,204.6c0,0,36.4,7.5,32.8,39.7c0,0-1.5,16.1-22.7,24.2c0,0-16.7-7.5-6-19.1c0,0-13.7-14-2.1-22.1
+				C221.2,227.3,201.5,217.8,219.1,204.6z"/>
+		</g>
+		<ellipse class="st1" cx="141" cy="263.4" rx="62.9" ry="74.3"/>
+		<path class="st1" d="M210.8,40.6c0,0,7.5-11.6,23.6-4.5c0,0,21.2,19.7-8.1,28.6L210.8,40.6z"/>
+		<path class="st1" d="M66.1,41.2c0,0-7.2-11.6-23.3-4.5c0,0-21.2,19.7,8.1,28.6L66.1,41.2z"/>
+	</g>
+</g>
+</svg>
